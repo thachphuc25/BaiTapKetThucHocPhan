@@ -29,7 +29,7 @@ const movies = [
     title: "Titanic",
     year: 1997,
     genres: ["Drama", "Romance"],
-    poster: "./images/titanic.jpg",
+    poster: "./images/Titanic.jpg",
     description:
       "Chuyện tình lãng mạn giữa Jack và Rose trên con tàu Titanic định mệnh.",
     director: "James Cameron",
@@ -40,7 +40,7 @@ const movies = [
     title: "Avengers: Endgame",
     year: 2019,
     genres: ["Action", "Sci-Fi"],
-    poster: "./images/avengers.jpg",
+    poster: "./images/Avengers.jpg",
     description:
       "Các siêu anh hùng hợp lực lần cuối để đảo ngược thảm họa do Thanos gây ra.",
     director: "Anthony Russo, Joe Russo",
